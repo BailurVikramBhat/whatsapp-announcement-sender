@@ -1,0 +1,720 @@
+2025-07-05 16:15:04,297 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 16:15:04,341 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 16:15:05,994 INFO  c.v.w.services.WhatsAppSender - Chromedriver set successfully.
+2025-07-05 16:15:28,228 INFO  c.v.w.services.WhatsAppSender - logged in successfully.: https://web.whatsapp.com/
+2025-07-05 16:15:28,228 INFO  c.v.w.services.WhatsAppSender - starting to attach pdf
+2025-07-05 16:39:21,227 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 16:39:21,277 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 16:39:26,329 INFO  c.v.w.services.WhatsAppSender - Waiting 20 s for QR-code scan …
+2025-07-05 16:39:46,332 INFO  c.v.w.pages.WhatsAppChatPage - Trying to close popup
+2025-07-05 16:41:16,563 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 16:41:16,947 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 16:41:16,991 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 16:41:17,034 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 16:41:24,091 INFO  c.v.w.services.WhatsAppSender - Waiting 20 s for QR-code scan …
+2025-07-05 16:41:24,491 INFO  c.v.w.services.WhatsAppSender - Waiting 20 s for QR-code scan …
+2025-07-05 16:41:44,113 INFO  c.v.w.pages.WhatsAppChatPage - Trying to close popup
+2025-07-05 16:41:44,503 INFO  c.v.w.pages.WhatsAppChatPage - Trying to close popup
+2025-07-05 16:46:02,983 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 16:46:04,852 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 16:46:04,886 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 16:46:08,186 INFO  c.v.w.services.WhatsAppSender - Waiting 20 s for QR-code scan …
+2025-07-05 16:46:38,192 INFO  c.v.w.pages.WhatsAppChatPage - Trying to close popup
+2025-07-05 16:46:38,230 INFO  c.v.w.pages.WhatsAppChatPage - Popup found, closing
+2025-07-05 16:46:38,374 INFO  c.v.w.pages.WhatsAppChatPage - popup closed
+2025-07-05 16:50:38,910 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 16:50:40,667 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 16:50:40,708 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 16:50:43,876 INFO  c.v.w.services.WhatsAppSender - Waiting 20 s for QR-code scan …
+2025-07-05 16:51:13,889 INFO  c.v.w.pages.WhatsAppChatPage - Trying to close popup
+2025-07-05 16:51:13,940 INFO  c.v.w.pages.WhatsAppChatPage - Popup found, closing
+2025-07-05 16:51:14,105 INFO  c.v.w.pages.WhatsAppChatPage - popup closed
+2025-07-05 16:54:36,694 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 16:54:37,813 INFO  c.v.w.services.ExcelReader - Working on sheet: Sheet1
+2025-07-05 16:54:38,635 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 16:54:38,665 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 16:57:20,797 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 16:57:21,967 INFO  c.v.w.services.ExcelReader - Working on sheet: Sheet1
+2025-07-05 16:57:22,018 INFO  c.v.w.services.ExcelReader - row contents: <xml-fragment r="1" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mx="http://schemas.microsoft.com/office/mac/excel/2008/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:x14="http://schemas.microsoft.com/office/spreadsheetml/2009/9/main" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xm="http://schemas.microsoft.com/office/excel/2006/main" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A1" s="1" t="s">
+    <main:v>0</main:v>
+  </main:c>
+  <main:c r="B1" s="1">
+    <main:v>6.302109694E9</main:v>
+  </main:c>
+</xml-fragment>
+2025-07-05 16:57:22,025 INFO  c.v.w.services.ExcelReader - cell type set to: NUMERIC
+2025-07-05 16:57:22,030 INFO  c.v.w.services.ExcelReader - row contents: <xml-fragment r="2" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mx="http://schemas.microsoft.com/office/mac/excel/2008/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:x14="http://schemas.microsoft.com/office/spreadsheetml/2009/9/main" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xm="http://schemas.microsoft.com/office/excel/2006/main" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" s="1" t="s">
+    <main:v>1</main:v>
+  </main:c>
+  <main:c r="B2" s="1">
+    <main:v>9.182497204E9</main:v>
+  </main:c>
+</xml-fragment>
+2025-07-05 16:57:22,031 INFO  c.v.w.services.ExcelReader - cell type set to: NUMERIC
+2025-07-05 16:57:22,034 INFO  c.v.w.services.ExcelReader - row contents: <xml-fragment r="3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mx="http://schemas.microsoft.com/office/mac/excel/2008/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:x14="http://schemas.microsoft.com/office/spreadsheetml/2009/9/main" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xm="http://schemas.microsoft.com/office/excel/2006/main" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" s="1" t="s">
+    <main:v>2</main:v>
+  </main:c>
+  <main:c r="B3" s="1">
+    <main:v>9.704858107E9</main:v>
+  </main:c>
+</xml-fragment>
+2025-07-05 16:57:22,035 INFO  c.v.w.services.ExcelReader - cell type set to: NUMERIC
+2025-07-05 16:57:22,847 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 16:57:22,891 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 17:02:29,230 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 17:02:30,485 INFO  c.v.w.services.ExcelReader - Working on sheet: Sheet1
+2025-07-05 17:02:30,542 INFO  c.v.w.services.ExcelReader - row contents: <xml-fragment r="1" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mx="http://schemas.microsoft.com/office/mac/excel/2008/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:x14="http://schemas.microsoft.com/office/spreadsheetml/2009/9/main" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xm="http://schemas.microsoft.com/office/excel/2006/main" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A1" s="1" t="s">
+    <main:v>0</main:v>
+  </main:c>
+  <main:c r="B1" s="2" t="s">
+    <main:v>1</main:v>
+  </main:c>
+</xml-fragment>
+2025-07-05 17:02:30,545 INFO  c.v.w.services.ExcelReader - Sending to Vikram Bhat
+2025-07-05 17:02:30,554 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:02:30,559 INFO  c.v.w.services.ExcelReader - row contents: <xml-fragment r="2" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mx="http://schemas.microsoft.com/office/mac/excel/2008/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:x14="http://schemas.microsoft.com/office/spreadsheetml/2009/9/main" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xm="http://schemas.microsoft.com/office/excel/2006/main" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" s="1" t="s">
+    <main:v>2</main:v>
+  </main:c>
+  <main:c r="B2" s="2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2025-07-05 17:02:30,559 INFO  c.v.w.services.ExcelReader - Sending to Dambal Narasimha
+2025-07-05 17:02:30,560 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:02:30,562 INFO  c.v.w.services.ExcelReader - row contents: <xml-fragment r="3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mx="http://schemas.microsoft.com/office/mac/excel/2008/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:x14="http://schemas.microsoft.com/office/spreadsheetml/2009/9/main" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xm="http://schemas.microsoft.com/office/excel/2006/main" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" s="1" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B3" s="2" t="s">
+    <main:v>5</main:v>
+  </main:c>
+</xml-fragment>
+2025-07-05 17:02:30,563 INFO  c.v.w.services.ExcelReader - Sending to Subramanya Bhat
+2025-07-05 17:02:30,564 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:02:31,407 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 17:02:31,441 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 17:05:44,561 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 17:05:45,634 INFO  c.v.w.services.ExcelReader - Working on sheet: Sheet1
+2025-07-05 17:05:45,687 INFO  c.v.w.services.ExcelReader - row contents: <xml-fragment r="1" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mx="http://schemas.microsoft.com/office/mac/excel/2008/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:x14="http://schemas.microsoft.com/office/spreadsheetml/2009/9/main" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xm="http://schemas.microsoft.com/office/excel/2006/main" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A1" s="1" t="s">
+    <main:v>0</main:v>
+  </main:c>
+  <main:c r="B1" s="2" t="s">
+    <main:v>1</main:v>
+  </main:c>
+</xml-fragment>
+2025-07-05 17:05:45,689 INFO  c.v.w.services.ExcelReader - Sending to Vikram Bhat
+2025-07-05 17:05:45,698 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:05:45,699 INFO  c.v.w.utils.Validator - validating for 6302109694
+2025-07-05 17:05:45,700 INFO  c.v.w.services.ExcelReader - Validation passed for 6302109694, adding to list.
+2025-07-05 17:05:45,705 INFO  c.v.w.services.ExcelReader - row contents: <xml-fragment r="2" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mx="http://schemas.microsoft.com/office/mac/excel/2008/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:x14="http://schemas.microsoft.com/office/spreadsheetml/2009/9/main" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xm="http://schemas.microsoft.com/office/excel/2006/main" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" s="1" t="s">
+    <main:v>2</main:v>
+  </main:c>
+  <main:c r="B2" s="2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2025-07-05 17:05:45,705 INFO  c.v.w.services.ExcelReader - Sending to Dambal Narasimha
+2025-07-05 17:05:45,706 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:05:45,706 INFO  c.v.w.utils.Validator - validating for 9182497204
+2025-07-05 17:05:45,706 INFO  c.v.w.services.ExcelReader - Validation passed for 9182497204, adding to list.
+2025-07-05 17:05:45,708 INFO  c.v.w.services.ExcelReader - row contents: <xml-fragment r="3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mx="http://schemas.microsoft.com/office/mac/excel/2008/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:x14="http://schemas.microsoft.com/office/spreadsheetml/2009/9/main" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xm="http://schemas.microsoft.com/office/excel/2006/main" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" s="1" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B3" s="2" t="s">
+    <main:v>5</main:v>
+  </main:c>
+</xml-fragment>
+2025-07-05 17:05:45,709 INFO  c.v.w.services.ExcelReader - Sending to Subramanya Bhat
+2025-07-05 17:05:45,710 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:05:45,711 INFO  c.v.w.utils.Validator - validating for 9704858107
+2025-07-05 17:05:45,711 INFO  c.v.w.services.ExcelReader - Validation passed for 9704858107, adding to list.
+2025-07-05 17:05:48,150 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 17:05:48,175 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 17:06:39,900 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 17:06:41,052 INFO  c.v.w.services.ExcelReader - Working on sheet: Sheet1
+2025-07-05 17:06:41,058 INFO  c.v.w.services.ExcelReader - Sending to Vikram Bhat
+2025-07-05 17:06:41,069 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:06:41,071 INFO  c.v.w.utils.Validator - validating for 6302109694
+2025-07-05 17:06:41,072 INFO  c.v.w.services.ExcelReader - Validation passed for 6302109694, adding to list.
+2025-07-05 17:06:41,073 INFO  c.v.w.services.ExcelReader - Sending to Dambal Narasimha
+2025-07-05 17:06:41,075 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:06:41,076 INFO  c.v.w.utils.Validator - validating for 9182497204
+2025-07-05 17:06:41,077 INFO  c.v.w.services.ExcelReader - Validation passed for 9182497204, adding to list.
+2025-07-05 17:06:41,077 INFO  c.v.w.services.ExcelReader - Sending to Subramanya Bhat
+2025-07-05 17:06:41,078 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:06:41,079 INFO  c.v.w.utils.Validator - validating for 9704858107
+2025-07-05 17:06:41,080 INFO  c.v.w.services.ExcelReader - Validation passed for 9704858107, adding to list.
+2025-07-05 17:06:41,980 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 17:06:42,022 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 17:06:45,203 INFO  c.v.w.services.WhatsAppSender - Waiting 20 s for QR-code scan …
+2025-07-05 17:07:15,215 INFO  c.v.w.pages.WhatsAppChatPage - Trying to close popup
+2025-07-05 17:07:15,262 INFO  c.v.w.pages.WhatsAppChatPage - Popup found, closing
+2025-07-05 17:07:17,546 INFO  c.v.w.pages.WhatsAppChatPage - popup closed
+2025-07-05 17:07:28,891 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 6302109694 with exception: {}
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: span[data-icon='clip'] (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.openChat(WhatsAppChatPage.java:29)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:45)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"span[data-icon='clip']"}
+  (Session info: chrome=137.0.7151.122)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d79a6821e49d24540c1bfeaabc0b976e, findElement {using=xpath, value=span[data-icon='clip']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\bhatt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52893}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52893/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d79a6821e49d24540c1bfeaabc0b976e
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:168)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+	... 3 common frames omitted
+2025-07-05 17:07:40,009 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 9182497204 with exception: {}
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: span[data-icon='clip'] (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.openChat(WhatsAppChatPage.java:29)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:45)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"span[data-icon='clip']"}
+  (Session info: chrome=137.0.7151.122)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d79a6821e49d24540c1bfeaabc0b976e, findElement {using=xpath, value=span[data-icon='clip']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\bhatt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52893}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52893/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d79a6821e49d24540c1bfeaabc0b976e
+	at jdk.internal.reflect.GeneratedConstructorAccessor8.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:168)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+	... 3 common frames omitted
+2025-07-05 17:07:51,408 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 9704858107 with exception: {}
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: span[data-icon='clip'] (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.openChat(WhatsAppChatPage.java:29)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:45)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"span[data-icon='clip']"}
+  (Session info: chrome=137.0.7151.122)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d79a6821e49d24540c1bfeaabc0b976e, findElement {using=xpath, value=span[data-icon='clip']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\bhatt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52893}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52893/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d79a6821e49d24540c1bfeaabc0b976e
+	at jdk.internal.reflect.GeneratedConstructorAccessor8.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:168)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+	... 3 common frames omitted
+2025-07-05 17:19:30,417 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 17:19:31,460 INFO  c.v.w.services.ExcelReader - Working on sheet: Sheet1
+2025-07-05 17:19:31,464 INFO  c.v.w.services.ExcelReader - Phone number found for Vikram Bhat
+2025-07-05 17:19:31,477 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:19:31,480 INFO  c.v.w.utils.Validator - validating for 6302109694
+2025-07-05 17:19:31,481 INFO  c.v.w.services.ExcelReader - Validation passed for 6302109694, adding to list.
+2025-07-05 17:19:31,482 INFO  c.v.w.services.ExcelReader - Phone number found for Dambal Narasimha
+2025-07-05 17:19:31,483 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:19:31,484 INFO  c.v.w.utils.Validator - validating for 9182497204
+2025-07-05 17:19:31,484 INFO  c.v.w.services.ExcelReader - Validation passed for 9182497204, adding to list.
+2025-07-05 17:19:31,485 INFO  c.v.w.services.ExcelReader - Phone number found for Subramanya Bhat
+2025-07-05 17:19:31,485 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:19:31,486 INFO  c.v.w.utils.Validator - validating for 9704858107
+2025-07-05 17:19:31,486 INFO  c.v.w.services.ExcelReader - Validation passed for 9704858107, adding to list.
+2025-07-05 17:19:32,345 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 17:19:32,380 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 17:19:35,720 INFO  c.v.w.services.WhatsAppSender - Waiting 20 s for QR-code scan …
+2025-07-05 17:20:05,736 INFO  c.v.w.pages.WhatsAppChatPage - Trying to close popup
+2025-07-05 17:20:05,836 INFO  c.v.w.pages.WhatsAppChatPage - Popup found, closing
+2025-07-05 17:20:06,079 INFO  c.v.w.pages.WhatsAppChatPage - popup closed
+2025-07-05 17:20:08,083 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 6302109694 with exception: {}
+java.lang.IllegalArgumentException: Unknown locator key: clip.button.css
+	at com.vikrambhat.whatsapp_announcement_sender.utils.Locators.by(Locators.java:31)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.openChat(WhatsAppChatPage.java:28)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:45)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+2025-07-05 17:20:10,483 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 9182497204 with exception: {}
+java.lang.IllegalArgumentException: Unknown locator key: clip.button.css
+	at com.vikrambhat.whatsapp_announcement_sender.utils.Locators.by(Locators.java:31)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.openChat(WhatsAppChatPage.java:28)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:45)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+2025-07-05 17:20:10,992 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 9704858107 with exception: {}
+java.lang.IllegalArgumentException: Unknown locator key: clip.button.css
+	at com.vikrambhat.whatsapp_announcement_sender.utils.Locators.by(Locators.java:31)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.openChat(WhatsAppChatPage.java:28)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:45)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+2025-07-05 17:21:34,565 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 17:21:35,788 INFO  c.v.w.services.ExcelReader - Working on sheet: Sheet1
+2025-07-05 17:21:35,791 INFO  c.v.w.services.ExcelReader - Phone number found for Vikram Bhat
+2025-07-05 17:21:35,801 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:21:35,803 INFO  c.v.w.utils.Validator - validating for 6302109694
+2025-07-05 17:21:35,803 INFO  c.v.w.services.ExcelReader - Validation passed for 6302109694, adding to list.
+2025-07-05 17:21:35,804 INFO  c.v.w.services.ExcelReader - Phone number found for Dambal Narasimha
+2025-07-05 17:21:35,805 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:21:35,806 INFO  c.v.w.utils.Validator - validating for 9182497204
+2025-07-05 17:21:35,806 INFO  c.v.w.services.ExcelReader - Validation passed for 9182497204, adding to list.
+2025-07-05 17:21:35,807 INFO  c.v.w.services.ExcelReader - Phone number found for Subramanya Bhat
+2025-07-05 17:21:35,807 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:21:35,808 INFO  c.v.w.utils.Validator - validating for 9704858107
+2025-07-05 17:21:35,809 INFO  c.v.w.services.ExcelReader - Validation passed for 9704858107, adding to list.
+2025-07-05 17:21:36,568 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 17:21:36,610 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 17:21:39,762 INFO  c.v.w.services.WhatsAppSender - Waiting 20 s for QR-code scan …
+2025-07-05 17:22:09,778 INFO  c.v.w.pages.WhatsAppChatPage - Trying to close popup
+2025-07-05 17:22:10,417 INFO  c.v.w.pages.WhatsAppChatPage - Popup found, closing
+2025-07-05 17:22:10,755 INFO  c.v.w.pages.WhatsAppChatPage - popup closed
+2025-07-05 17:22:12,004 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 6302109694 with exception: {}
+java.lang.IllegalArgumentException: Unknown locator key: clip.button.xpath
+	at com.vikrambhat.whatsapp_announcement_sender.utils.Locators.by(Locators.java:31)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.openChat(WhatsAppChatPage.java:28)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:45)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+2025-07-05 17:22:13,666 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 9182497204 with exception: {}
+java.lang.IllegalArgumentException: Unknown locator key: clip.button.xpath
+	at com.vikrambhat.whatsapp_announcement_sender.utils.Locators.by(Locators.java:31)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.openChat(WhatsAppChatPage.java:28)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:45)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+2025-07-05 17:22:16,677 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 9704858107 with exception: {}
+java.lang.IllegalArgumentException: Unknown locator key: clip.button.xpath
+	at com.vikrambhat.whatsapp_announcement_sender.utils.Locators.by(Locators.java:31)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.openChat(WhatsAppChatPage.java:28)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:45)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+2025-07-05 17:23:43,950 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 17:23:45,338 INFO  c.v.w.services.ExcelReader - Working on sheet: Sheet1
+2025-07-05 17:23:45,341 INFO  c.v.w.services.ExcelReader - Phone number found for Vikram Bhat
+2025-07-05 17:23:45,353 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:23:45,355 INFO  c.v.w.utils.Validator - validating for 6302109694
+2025-07-05 17:23:45,357 INFO  c.v.w.services.ExcelReader - Validation passed for 6302109694, adding to list.
+2025-07-05 17:23:45,357 INFO  c.v.w.services.ExcelReader - Phone number found for Dambal Narasimha
+2025-07-05 17:23:45,358 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:23:45,359 INFO  c.v.w.utils.Validator - validating for 9182497204
+2025-07-05 17:23:45,359 INFO  c.v.w.services.ExcelReader - Validation passed for 9182497204, adding to list.
+2025-07-05 17:23:45,359 INFO  c.v.w.services.ExcelReader - Phone number found for Subramanya Bhat
+2025-07-05 17:23:45,360 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:23:45,361 INFO  c.v.w.utils.Validator - validating for 9704858107
+2025-07-05 17:23:45,361 INFO  c.v.w.services.ExcelReader - Validation passed for 9704858107, adding to list.
+2025-07-05 17:23:46,121 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 17:23:46,158 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 17:23:48,185 INFO  c.v.w.services.WhatsAppSender - Waiting 20 s for QR-code scan …
+2025-07-05 17:24:18,189 INFO  c.v.w.pages.WhatsAppChatPage - Trying to close popup
+2025-07-05 17:24:18,395 INFO  c.v.w.pages.WhatsAppChatPage - Popup found, closing
+2025-07-05 17:24:18,746 INFO  c.v.w.pages.WhatsAppChatPage - popup closed
+2025-07-05 17:24:34,088 INFO  c.v.w.pages.WhatsAppChatPage - Sending pdf
+2025-07-05 17:24:41,128 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 6302109694 with exception: {}
+java.lang.IllegalArgumentException: Unknown locator key: send.button.css
+	at com.vikrambhat.whatsapp_announcement_sender.utils.Locators.by(Locators.java:31)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.attachAndSendPdf(WhatsAppChatPage.java:52)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:47)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+2025-07-05 17:24:56,959 INFO  c.v.w.pages.WhatsAppChatPage - Sending pdf
+2025-07-05 17:25:02,890 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 9182497204 with exception: {}
+java.lang.IllegalArgumentException: Unknown locator key: send.button.css
+	at com.vikrambhat.whatsapp_announcement_sender.utils.Locators.by(Locators.java:31)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.attachAndSendPdf(WhatsAppChatPage.java:52)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:47)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+2025-07-05 17:25:19,252 INFO  c.v.w.pages.WhatsAppChatPage - Sending pdf
+2025-07-05 17:25:30,899 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 9704858107 with exception: {}
+java.lang.IllegalArgumentException: Unknown locator key: send.button.css
+	at com.vikrambhat.whatsapp_announcement_sender.utils.Locators.by(Locators.java:31)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.attachAndSendPdf(WhatsAppChatPage.java:52)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:47)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+2025-07-05 17:26:32,475 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 17:26:33,516 INFO  c.v.w.services.ExcelReader - Working on sheet: Sheet1
+2025-07-05 17:26:33,522 INFO  c.v.w.services.ExcelReader - Phone number found for Vikram Bhat
+2025-07-05 17:26:33,529 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:26:33,531 INFO  c.v.w.utils.Validator - validating for 6302109694
+2025-07-05 17:26:33,532 INFO  c.v.w.services.ExcelReader - Validation passed for 6302109694, adding to list.
+2025-07-05 17:26:33,532 INFO  c.v.w.services.ExcelReader - Phone number found for Dambal Narasimha
+2025-07-05 17:26:33,533 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:26:33,533 INFO  c.v.w.utils.Validator - validating for 9182497204
+2025-07-05 17:26:33,534 INFO  c.v.w.services.ExcelReader - Validation passed for 9182497204, adding to list.
+2025-07-05 17:26:33,534 INFO  c.v.w.services.ExcelReader - Phone number found for Subramanya Bhat
+2025-07-05 17:26:33,534 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:26:33,535 INFO  c.v.w.utils.Validator - validating for 9704858107
+2025-07-05 17:26:33,536 INFO  c.v.w.services.ExcelReader - Validation passed for 9704858107, adding to list.
+2025-07-05 17:26:34,326 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 17:26:34,371 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 17:26:38,022 INFO  c.v.w.services.WhatsAppSender - Waiting 20 s for QR-code scan …
+2025-07-05 17:27:08,038 INFO  c.v.w.pages.WhatsAppChatPage - Trying to close popup
+2025-07-05 17:27:21,096 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 6302109694 with exception: {}
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //span[@data-icon='plus-rounded'] (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.openChat(WhatsAppChatPage.java:28)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:45)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-icon='plus-rounded']"}
+  (Session info: chrome=137.0.7151.122)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d808d197f837ebe744ab85f8e6a255e9, findElement {value=//span[@data-icon='plus-rounded'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\bhatt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53846}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53846/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d808d197f837ebe744ab85f8e6a255e9
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:168)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+	... 3 common frames omitted
+2025-07-05 17:27:32,202 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 9182497204 with exception: {}
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //span[@data-icon='plus-rounded'] (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.openChat(WhatsAppChatPage.java:28)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:45)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-icon='plus-rounded']"}
+  (Session info: chrome=137.0.7151.122)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d808d197f837ebe744ab85f8e6a255e9, findElement {value=//span[@data-icon='plus-rounded'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\bhatt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53846}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53846/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d808d197f837ebe744ab85f8e6a255e9
+	at jdk.internal.reflect.GeneratedConstructorAccessor8.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:168)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+	... 3 common frames omitted
+2025-07-05 17:27:50,024 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 9704858107 with exception: {}
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //span[@data-icon='plus-rounded'] (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.openChat(WhatsAppChatPage.java:28)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:45)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-icon='plus-rounded']"}
+  (Session info: chrome=137.0.7151.122)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d808d197f837ebe744ab85f8e6a255e9, findElement {value=//span[@data-icon='plus-rounded'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\bhatt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53846}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53846/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d808d197f837ebe744ab85f8e6a255e9
+	at jdk.internal.reflect.GeneratedConstructorAccessor8.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:168)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+	... 3 common frames omitted
+2025-07-05 17:31:32,495 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 17:31:33,551 INFO  c.v.w.services.ExcelReader - Working on sheet: Sheet1
+2025-07-05 17:31:33,556 INFO  c.v.w.services.ExcelReader - Phone number found for Vikram Bhat
+2025-07-05 17:31:33,563 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:31:33,565 INFO  c.v.w.utils.Validator - validating for 6302109694
+2025-07-05 17:31:33,566 INFO  c.v.w.services.ExcelReader - Validation passed for 6302109694, adding to list.
+2025-07-05 17:31:33,566 INFO  c.v.w.services.ExcelReader - Phone number found for Dambal Narasimha
+2025-07-05 17:31:33,567 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:31:33,567 INFO  c.v.w.utils.Validator - validating for 9182497204
+2025-07-05 17:31:33,568 INFO  c.v.w.services.ExcelReader - Validation passed for 9182497204, adding to list.
+2025-07-05 17:31:33,568 INFO  c.v.w.services.ExcelReader - Phone number found for Subramanya Bhat
+2025-07-05 17:31:33,569 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:31:33,569 INFO  c.v.w.utils.Validator - validating for 9704858107
+2025-07-05 17:31:33,570 INFO  c.v.w.services.ExcelReader - Validation passed for 9704858107, adding to list.
+2025-07-05 17:31:34,338 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 17:31:34,382 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 17:31:38,118 INFO  c.v.w.services.WhatsAppSender - Waiting 20 s for QR-code scan …
+2025-07-05 17:32:18,129 INFO  c.v.w.pages.WhatsAppChatPage - Trying to close popup
+2025-07-05 17:32:18,172 INFO  c.v.w.pages.WhatsAppChatPage - Popup found, closing
+2025-07-05 17:32:18,324 INFO  c.v.w.pages.WhatsAppChatPage - popup closed
+2025-07-05 17:32:26,679 INFO  c.v.w.pages.WhatsAppChatPage - Sending pdf
+2025-07-05 17:32:47,230 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 6302109694 with exception: {}
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@data-icon='send'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\bhatt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54024}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54024/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ab01d77448ed701dcd873034f7f7ad3a
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.attachAndSendPdf(WhatsAppChatPage.java:56)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:47)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+2025-07-05 17:33:00,264 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 9182497204 with exception: {}
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //span[@data-icon='plus-rounded'] (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.openChat(WhatsAppChatPage.java:30)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:45)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-icon='plus-rounded']"}
+  (Session info: chrome=137.0.7151.122)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ab01d77448ed701dcd873034f7f7ad3a, findElement {using=xpath, value=//span[@data-icon='plus-rounded']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\bhatt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54024}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54024/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ab01d77448ed701dcd873034f7f7ad3a
+	at jdk.internal.reflect.GeneratedConstructorAccessor8.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:168)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+	... 3 common frames omitted
+2025-07-05 17:33:13,604 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 9704858107 with exception: {}
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //span[@data-icon='plus-rounded'] (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage.openChat(WhatsAppChatPage.java:30)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:45)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-icon='plus-rounded']"}
+  (Session info: chrome=137.0.7151.122)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ab01d77448ed701dcd873034f7f7ad3a, findElement {using=xpath, value=//span[@data-icon='plus-rounded']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\bhatt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54024}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54024/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ab01d77448ed701dcd873034f7f7ad3a
+	at jdk.internal.reflect.GeneratedConstructorAccessor8.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:168)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+	... 3 common frames omitted
+2025-07-05 17:36:44,978 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 17:36:46,134 INFO  c.v.w.services.ExcelReader - Working on sheet: Sheet1
+2025-07-05 17:36:46,140 INFO  c.v.w.services.ExcelReader - Phone number found for Vikram Bhat
+2025-07-05 17:36:46,154 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:36:46,157 INFO  c.v.w.utils.Validator - validating for 6302109694
+2025-07-05 17:36:46,157 INFO  c.v.w.services.ExcelReader - Validation passed for 6302109694, adding to list.
+2025-07-05 17:36:46,157 INFO  c.v.w.services.ExcelReader - Phone number found for Dambal Narasimha
+2025-07-05 17:36:46,158 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:36:46,159 INFO  c.v.w.utils.Validator - validating for 9182497204
+2025-07-05 17:36:46,159 INFO  c.v.w.services.ExcelReader - Validation passed for 9182497204, adding to list.
+2025-07-05 17:36:46,159 INFO  c.v.w.services.ExcelReader - Phone number found for Subramanya Bhat
+2025-07-05 17:36:46,160 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:36:46,161 INFO  c.v.w.utils.Validator - validating for 9704858107
+2025-07-05 17:36:46,161 INFO  c.v.w.services.ExcelReader - Validation passed for 9704858107, adding to list.
+2025-07-05 17:36:46,933 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 17:36:46,966 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 17:36:50,710 INFO  c.v.w.services.WhatsAppSender - Waiting 20 s for QR-code scan …
+2025-07-05 17:37:30,720 INFO  c.v.w.pages.WhatsAppChatPage - Trying to close popup
+2025-07-05 17:37:30,768 INFO  c.v.w.pages.WhatsAppChatPage - Popup found, closing
+2025-07-05 17:37:30,928 INFO  c.v.w.pages.WhatsAppChatPage - popup closed
+2025-07-05 17:37:40,051 INFO  c.v.w.pages.WhatsAppChatPage - Sending pdf
+2025-07-05 17:37:46,151 INFO  c.v.w.pages.WhatsAppChatPage - Succeessfully sent pdf
+2025-07-05 17:37:46,151 INFO  c.v.w.services.WhatsAppSender - ✓ Sent to 6302109694
+2025-07-05 17:37:46,153 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 6302109694 with exception: {}
+java.lang.NumberFormatException: For input string: "18000   # 18 s"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at com.vikrambhat.whatsapp_announcement_sender.configs.Config.getInt(Config.java:27)
+	at com.vikrambhat.whatsapp_announcement_sender.utils.DelayUtil.getRandomDelay(DelayUtil.java:14)
+	at com.vikrambhat.whatsapp_announcement_sender.utils.DelayUtil.randomSleep(DelayUtil.java:20)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:49)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+2025-07-05 17:37:54,116 INFO  c.v.w.pages.WhatsAppChatPage - Sending pdf
+2025-07-05 17:37:59,433 INFO  c.v.w.pages.WhatsAppChatPage - Succeessfully sent pdf
+2025-07-05 17:37:59,434 INFO  c.v.w.services.WhatsAppSender - ✓ Sent to 9182497204
+2025-07-05 17:37:59,434 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 9182497204 with exception: {}
+java.lang.NumberFormatException: For input string: "18000   # 18 s"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at com.vikrambhat.whatsapp_announcement_sender.configs.Config.getInt(Config.java:27)
+	at com.vikrambhat.whatsapp_announcement_sender.utils.DelayUtil.getRandomDelay(DelayUtil.java:14)
+	at com.vikrambhat.whatsapp_announcement_sender.utils.DelayUtil.randomSleep(DelayUtil.java:20)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:49)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+2025-07-05 17:38:07,180 INFO  c.v.w.pages.WhatsAppChatPage - Sending pdf
+2025-07-05 17:38:12,750 INFO  c.v.w.pages.WhatsAppChatPage - Succeessfully sent pdf
+2025-07-05 17:38:12,750 INFO  c.v.w.services.WhatsAppSender - ✓ Sent to 9704858107
+2025-07-05 17:38:12,751 ERROR c.v.w.services.WhatsAppSender - ✗ Failed for 9704858107 with exception: {}
+java.lang.NumberFormatException: For input string: "18000   # 18 s"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at com.vikrambhat.whatsapp_announcement_sender.configs.Config.getInt(Config.java:27)
+	at com.vikrambhat.whatsapp_announcement_sender.utils.DelayUtil.getRandomDelay(DelayUtil.java:14)
+	at com.vikrambhat.whatsapp_announcement_sender.utils.DelayUtil.randomSleep(DelayUtil.java:20)
+	at com.vikrambhat.whatsapp_announcement_sender.services.WhatsAppSender.sendTo(WhatsAppSender.java:49)
+	at com.vikrambhat.whatsapp_announcement_sender.App.main(App.java:20)
+2025-07-05 17:39:58,936 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 17:39:59,987 INFO  c.v.w.services.ExcelReader - Working on sheet: Sheet1
+2025-07-05 17:39:59,991 INFO  c.v.w.services.ExcelReader - Phone number found for Vikram Bhat
+2025-07-05 17:40:00,000 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:40:00,001 INFO  c.v.w.utils.Validator - validating for 6302109694
+2025-07-05 17:40:00,002 INFO  c.v.w.services.ExcelReader - Validation passed for 6302109694, adding to list.
+2025-07-05 17:40:00,002 INFO  c.v.w.services.ExcelReader - Phone number found for Dambal Narasimha
+2025-07-05 17:40:00,003 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:40:00,003 INFO  c.v.w.utils.Validator - validating for 9182497204
+2025-07-05 17:40:00,004 INFO  c.v.w.services.ExcelReader - Validation passed for 9182497204, adding to list.
+2025-07-05 17:40:00,004 INFO  c.v.w.services.ExcelReader - Phone number found for Subramanya Bhat
+2025-07-05 17:40:00,005 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 17:40:00,006 INFO  c.v.w.utils.Validator - validating for 9704858107
+2025-07-05 17:40:00,006 INFO  c.v.w.services.ExcelReader - Validation passed for 9704858107, adding to list.
+2025-07-05 17:40:00,842 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 17:40:00,882 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 17:40:04,264 INFO  c.v.w.services.WhatsAppSender - Waiting 20 s for QR-code scan …
+2025-07-05 17:40:44,273 INFO  c.v.w.pages.WhatsAppChatPage - Trying to close popup
+2025-07-05 17:40:44,318 INFO  c.v.w.pages.WhatsAppChatPage - Popup found, closing
+2025-07-05 17:40:44,521 INFO  c.v.w.pages.WhatsAppChatPage - popup closed
+2025-07-05 17:40:53,537 INFO  c.v.w.pages.WhatsAppChatPage - Sending pdf
+2025-07-05 17:41:04,473 INFO  c.v.w.pages.WhatsAppChatPage - Succeessfully sent pdf
+2025-07-05 17:41:04,474 INFO  c.v.w.services.WhatsAppSender - ✓ Sent to 6302109694
+2025-07-05 17:41:31,088 INFO  c.v.w.pages.WhatsAppChatPage - Sending pdf
+2025-07-05 17:41:42,208 INFO  c.v.w.pages.WhatsAppChatPage - Succeessfully sent pdf
+2025-07-05 17:41:42,209 INFO  c.v.w.services.WhatsAppSender - ✓ Sent to 9182497204
+2025-07-05 17:42:09,612 INFO  c.v.w.pages.WhatsAppChatPage - Sending pdf
+2025-07-05 17:42:20,912 INFO  c.v.w.pages.WhatsAppChatPage - Succeessfully sent pdf
+2025-07-05 17:42:20,913 INFO  c.v.w.services.WhatsAppSender - ✓ Sent to 9704858107
+2025-07-05 18:31:48,400 INFO  c.v.w.utils.Validator - validating for 9876543210
+2025-07-05 18:31:48,404 INFO  c.v.w.utils.Validator - validating for 98765
+2025-07-05 18:36:48,004 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 18:36:49,561 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 18:36:49,723 INFO  c.v.w.services.ExcelReader - Working on sheet: Sheet0
+2025-07-05 18:36:49,727 INFO  c.v.w.services.ExcelReader - Phone number found for Test
+2025-07-05 18:36:49,730 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 18:36:49,733 INFO  c.v.w.utils.Validator - validating for 9876543210
+2025-07-05 18:36:49,734 INFO  c.v.w.services.ExcelReader - Validation passed for 9876543210, adding to list.
+2025-07-05 18:39:07,702 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 18:39:07,734 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 18:39:54,984 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 18:39:56,345 INFO  c.v.w.services.ExcelReader - Starting with getPhoneNumbers
+2025-07-05 18:39:56,479 INFO  c.v.w.services.ExcelReader - Working on sheet: Sheet0
+2025-07-05 18:39:56,483 INFO  c.v.w.services.ExcelReader - Phone number found for Test
+2025-07-05 18:39:56,485 INFO  c.v.w.services.ExcelReader - cell type set to: STRING
+2025-07-05 18:39:56,487 INFO  c.v.w.utils.Validator - validating for 9876543210
+2025-07-05 18:39:56,488 INFO  c.v.w.services.ExcelReader - Validation passed for 9876543210, adding to list.
+2025-07-05 18:39:57,460 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-07-05 18:39:57,481 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bhatt\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-07-05 18:40:00,274 INFO  c.v.w.utils.Validator - validating for 9876543210
+2025-07-05 18:40:00,274 INFO  c.v.w.utils.Validator - validating for 98765
