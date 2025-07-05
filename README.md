@@ -1,9 +1,26 @@
-# Temple PDF Sender — Version 1
+# WhatsApp-Announcement-Sender
 
-Automates sending a daily PDF from the temple’s WhatsApp account to a list of
-contacts maintained in an Excel file.
+Automates sending a daily (or on-demand) PDF from the temple’s WhatsApp
+account to contacts listed in an Excel file.  
+Built in Java 17, driven by Selenium 4, configured with properties files,
+guarded by GitHub Actions CI + branch-protection.
 
 ---
+
+## ✨ Key Features (v2)
+
+| Category | Details |  
+|----------|---------|  
+| **Excel analytics** | Counts total rows, valid / missing / invalid phones, missing names. |  
+| **Rollover** | Adds a `SentOn` column; rows stamped with today’s date are skipped on future runs. |  
+| **Error visibility** | *(optional)* creates an **“Errors”** sheet listing skipped rows + reason. |  
+| **Headless, sandbox-safe Chrome** | Unique `--user-data-dir` per run avoids profile clashes in CI. |  
+| **Randomised delay** | 18-25 s (configurable) to simulate human sending and avoid spam flags. |  
+| **Max daily cap** | `max.contacts` throttles how many unsent rows are processed per run. |  
+| **Selectors externalised** | All CSS / XPath live in `locators.properties`. |  
+| **Unit & integration tests** | JUnit 5 + Mockito; workbook and driver mocked for millisecond runs. |  
+| **CI / CD** | GitHub Actions builds every PR / push, releases on Git tag, blocks merge until green. |  
+| **Logging** | Logback → console + daily rolling `logs/temple-sender-YYYY-MM-DD.log`. |  
 
 ## ✨  Features (v1)
 
