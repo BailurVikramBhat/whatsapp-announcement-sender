@@ -9,6 +9,7 @@ import org.slf4j.LoggerFactory;
 import com.vikrambhat.whatsapp_announcement_sender.pages.WhatsAppChatPage;
 import com.vikrambhat.whatsapp_announcement_sender.utils.DelayUtil;
 import com.vikrambhat.whatsapp_announcement_sender.utils.Validator;
+import com.vikrambhat.whatsapp_announcement_sender.utils.WebDriverFactory;
 
 import java.time.Duration;
 import java.util.List;
@@ -27,6 +28,12 @@ public class WhatsAppSender {
 		this.driver = new ChromeDriver();
 		this.chat = new WhatsAppChatPage(this.driver, Duration.ofSeconds(20));
 		log.debug("ChromeDriver ready");
+	}
+
+	public WhatsAppSender(String pdfPath, WebDriverFactory factory) {
+		this.pdfPath = pdfPath;
+		this.driver = factory.create();
+		this.chat = new WhatsAppChatPage(this.driver, Duration.ofSeconds(10));
 	}
 
 	public void login() throws InterruptedException {
