@@ -1,0 +1,40 @@
+name: Java CD (v1)
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # allow upload of release assets
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Cache Maven repo
+      uses: actions/cache@v4
+      with:
+        path: ~/.m2/repository
+        key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
+        restore-keys: ${{ runner.os }}-maven-
+
+    - name: Set up JDK 17
+      uses: actions/setup-java@v4
+      with:
+        distribution: temurin
+        java-version: 17
+
+    # Build jar (skip tests; CI already ran them)
+    - name: Build JAR
+      run: mvn -B -DskipTests=true clean package
+
+    # Draft GitHub Release and upload the JAR
+    - name: Create GitHub release
+      uses: softprops/action-gh-release@v2
+      with:
+        generate_release_notes: true
+        files: target/TemplePdfSender-*.jar
