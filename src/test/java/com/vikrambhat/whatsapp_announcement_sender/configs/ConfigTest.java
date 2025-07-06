@@ -9,7 +9,7 @@ class ConfigTest {
 	@SuppressWarnings("static-method")
 	@Test
 	void loadsKnownKey() {
-		assertEquals("150", Config.get("max.contacts"));
+		assertEquals("100", Config.get("max.contacts"));
 	}
 
 	@SuppressWarnings("static-method")
