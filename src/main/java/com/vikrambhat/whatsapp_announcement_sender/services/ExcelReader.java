@@ -40,10 +40,13 @@ public class ExcelReader {
 		Sheet sheet = wb.getSheetAt(0);
 
 		for (Row r : sheet) {
+
 			total++;
 			String name = getString(r, COL_NAME);
 			String phone = getString(r, COL_PHONE);
-
+			if (r.getRowNum() == 0 && phone.equalsIgnoreCase("Phone Number")) {
+				continue;
+			}
 			if (phone == null || phone.isBlank()) {
 				missingPhone++;
 				continue;

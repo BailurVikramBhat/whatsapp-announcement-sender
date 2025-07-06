@@ -53,7 +53,7 @@ public class App {
 			WhatsAppSender sender = new WhatsAppSender(pdf);
 			sender.login();
 			sender.sendAndMark(today, wb);
-			sender.quit();
+//			sender.quit();
 			try (FileOutputStream out = new FileOutputStream(Paths.get(excel).toFile())) {
 				wb.write(out);
 			}

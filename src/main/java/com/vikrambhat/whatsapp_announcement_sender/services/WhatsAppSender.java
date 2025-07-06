@@ -47,7 +47,7 @@ public class WhatsAppSender {
 	public void login() throws InterruptedException {
 		this.driver.get("https://web.whatsapp.com");
 		log.info("Waiting 20 s for QR-code scan …");
-		Thread.sleep(40_000);
+		Thread.sleep(50_000);
 		this.chat.closePopupIfPresent();
 	}
 
@@ -58,9 +58,8 @@ public class WhatsAppSender {
 		for (String num : phones) {
 			try {
 				this.chat.openChat(num);
-//				this.chat.openChat(num);
 				this.chat.attachAndSendPdf(this.pdfPath);
-				log.info("✓ Sent to {}", num);
+				log.info("✓ Sent to: {}", num);
 				DelayUtil.randomSleep();
 			} catch (Exception ex) {
 				log.error("✗ Failed for {} with exception: {}", num, ex);

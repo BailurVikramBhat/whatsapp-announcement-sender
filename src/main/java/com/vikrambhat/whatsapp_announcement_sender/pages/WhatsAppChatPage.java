@@ -52,7 +52,7 @@ public class WhatsAppChatPage {
 		WebElement fileInput = this.wait
 				.until(ExpectedConditions.presenceOfElementLocated(Locators.by("fileinput.xpath")));
 		fileInput.sendKeys(pdfPath);
-		Thread.sleep(4_000);
+//		Thread.sleep(5_000);
 		WebElement sendCTA = this.wait.until(ExpectedConditions.elementToBeClickable(Locators.by("send.button.xpath")));
 		sendCTA.click();
 		Thread.sleep(5_000);
